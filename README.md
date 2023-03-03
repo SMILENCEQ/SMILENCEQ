@@ -1,6 +1,6 @@
 
 <!--
-**hasaki99/hasaki99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** SMILENCEQ/ SMILENCEQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I am Hasaki99 👏🏻
+# Hello, I am  SMILENCEQ 👏🏻
 <div align="center">
   
   <!-- dynamic typing effect 动态打字效果 -->
@@ -99,14 +99,14 @@ Here are some ideas to get you started:
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
-<a href="https://github.com/hasaki99"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hasaki99&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Jacky's github stats" /></a> <br>
+<a href="https://github.com/ SMILENCEQ"><img align="center" src="https://github-readme-stats.vercel.app/api?username= SMILENCEQ&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Jacky's github stats" /></a> <br>
 
-<a href="https://github.com/hasaki99"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaki99&layout=compact&theme=vue&hide_border=true" /></a><br>
+<a href="https://github.com/ SMILENCEQ"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username= SMILENCEQ&layout=compact&theme=vue&hide_border=true" /></a><br>
 
 <!-- Quotes 名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
   
 <!-- GitHub 奖杯🏆 -->
-<img  src="https://github-profile-trophy.vercel.app/?username=hasaki99&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+<img  src="https://github-profile-trophy.vercel.app/?username= SMILENCEQ&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
 
